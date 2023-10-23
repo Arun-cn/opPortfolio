@@ -4,32 +4,32 @@
 const settings = {
   isSplash: false, // Change this to true if you want to use the splash screen.
   useCustomCursor: true, // Change this to false if you want the good'ol cursor
-  googleTrackingID: "UA-174238252-2",
+  googleTrackingID: " ",
 };
 
 //Home Page
 const greeting = {
   title: "Hello.",
-  title2: "Hrishi",
-  logo_name: "hrishi.p()",
-  nickname: "hrishi1999 / picleric",
-  full_name: "Hrishi Patel",
+  title2: "Arun",
+  logo_name: "Arun",
+  nickname: " ",
+  full_name: "Arun Chandran",
   subTitle:
     "Full Stack Developer, Machine Learning Enthusiast. Always learning.",
   resumeLink:
-    "https://drive.google.com/file/d/1kcvW8P65jWZFeKR6Jopf3nrQLA1qJCwn/view?usp=sharing",
-  mail: "mailto:hrishipatel99@gmail.com",
+    "https://",
+  mail: "arunchandran9876@gmail.com",
 };
 
 const socialMediaLinks = {
   /* Your Social Media Link */
-  github: "https://github.com/hrishi1999",
-  linkedin: "https://www.linkedin.com/in/hrishi-patel-ba8476140/",
-  gmail: "hrishipatel99@gmail.com",
+  github: "https://github.com/Arun-cn",
+  linkedin: "https://www.linkedin.com/in/arun-cn",
+  gmail: "arunchandran9876@gmail.com",
   gitlab: " ",
   facebook: " ",
   twitter: "https://twitter.com/hrishi_55",
-  instagram: "https://www.instagram.com/picleric/",
+  instagram: "https://www.instagram.com/arun_d_leh",
 };
 
 const skills = {

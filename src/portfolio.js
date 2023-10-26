@@ -15,7 +15,7 @@ const greeting = {
   nickname: " ",
   full_name: "Arun Chandran",
   subTitle:
-    "Full Stack Developer, Machine Learning Enthusiast. Always learning.",
+    "Full Stack Developer .",
   resumeLink:
     "https://",
   mail: "arunchandran9876@gmail.com",
@@ -28,7 +28,7 @@ const socialMediaLinks = {
   gmail: "arunchandran9876@gmail.com",
   gitlab: " ",
   facebook: " ",
-  twitter: "https://twitter.com/hrishi_55",
+  twitter: "https://twitter.com/yesiamarun",
   instagram: "https://www.instagram.com/arun_d_leh",
 };
 
@@ -39,8 +39,7 @@ const skills = {
       fileName: "FullStackImg",
       skills: [
         "⚡ Building responsive website front end using ReactJS and Angular",
-        "⚡ Developing mobile applications using Flutter and native Android",
-        "⚡ Backend development using NodeJS, ExpressJS and Flask",
+        "⚡ Backend development using NodeJS and ExpressJS",
       ],
       softwareSkills: [
         {
@@ -66,45 +65,10 @@ const skills = {
           },
         },
         {
-          skillName: "PHP",
-          fontAwesomeClassname: "simple-icons:php",
-          style: {
-            color: "#7377AD",
-          },
-        },
-        {
           skillName: "Java",
           fontAwesomeClassname: "simple-icons:java",
           style: {
             color: "#f89820",
-          },
-        },
-        {
-          skillName: "Kotlin",
-          fontAwesomeClassname: "simple-icons:kotlin",
-          style: {
-            color: "#5c79df",
-          },
-        },
-        {
-          skillName: "Dart",
-          fontAwesomeClassname: "simple-icons:dart",
-          style: {
-            color: "#29B0EE",
-          },
-        },
-        {
-          skillName: "Go",
-          fontAwesomeClassname: "simple-icons:go",
-          style: {
-            color: "#00A7D0",
-          },
-        },
-        {
-          skillName: "Visual Basic",
-          fontAwesomeClassname: "simple-icons:dot-net",
-          style: {
-            color: "#029FCE",
           },
         },
         {
@@ -174,29 +138,13 @@ const skills = {
           },
         },
         {
-          skillName: "Flutter",
-          fontAwesomeClassname: "simple-icons:flutter",
-          style: {
-            color: "#02569B",
-          },
-        },
-        {
           skillName: "MySQL",
           fontAwesomeClassname: "simple-icons:mysql",
           style: {
             color: "#4479A1",
           },
         },
-
-        {
-          skillName: "Wordpress",
-          fontAwesomeClassname: "simple-icons:wordpress",
-          style: {
-            color: "#207297",
-          },
-        },
-
-        {
+         {
           skillName: "Git",
           fontAwesomeClassname: "simple-icons:git",
           style: {
@@ -210,10 +158,8 @@ const skills = {
       title: "Cloud Infra-Architecture",
       fileName: "CloudInfraImg",
       skills: [
-        "⚡ Certified AWS Developer Associate and Cloud Practioner",
         "⚡ Experience working on multiple cloud platforms",
         "⚡ Experience hosting and managing web apps on GCP and AWS",
-        "⚡ Deploying deep learning models on cloud to use on mobile devices",
       ],
       softwareSkills: [
         {
@@ -263,55 +209,6 @@ const skills = {
           fontAwesomeClassname: "simple-icons:docker",
           style: {
             color: "#1488C6",
-          },
-        },
-      ],
-    },
-    {
-      title: "Data Science & AI",
-      fileName: "DataScienceImg",
-      skills: [
-        "⚡ Experience of working with Computer Vision and NLP projects",
-        "⚡ Certifications by deeplearning.ai and Stanford Online",
-        "⚡ Experience with 10+ Projects",
-      ],
-      softwareSkills: [
-        {
-          skillName: "Tensorflow",
-          fontAwesomeClassname: "logos-tensorflow",
-          style: {
-            backgroundColor: "transparent",
-          },
-        },
-        {
-          skillName: "Keras",
-          fontAwesomeClassname: "simple-icons:keras",
-          style: {
-            backgroundColor: "white",
-            color: "#D00000",
-          },
-        },
-        {
-          skillName: "PyTorch",
-          fontAwesomeClassname: "logos-pytorch",
-          style: {
-            backgroundColor: "transparent",
-          },
-        },
-        {
-          skillName: "Python",
-          fontAwesomeClassname: "ion-logo-python",
-          style: {
-            backgroundColor: "transparent",
-            color: "#3776AB",
-          },
-        },
-        {
-          skillName: "Pandas",
-          fontAwesomeClassname: "simple-icons:pandas",
-          style: {
-            backgroundColor: "transparent",
-            color: "#6E6E6E",
           },
         },
       ],
